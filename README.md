@@ -1,7 +1,7 @@
 # Calculator-Project--Afame-Technologies
 
 
-🧮 Basic Calculator 🔢
+🧮 Standard Calculator 🔢
 
 Developed a basic calculator during my Web Developer Internship at Afame Technologies using HTML, CSS, and JavaScript. This project showcases my ability to design a responsive interface with core functionalities such as addition, subtraction, multiplication, and division, while enhancing my front-end development skills.
 
